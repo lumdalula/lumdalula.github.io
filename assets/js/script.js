@@ -85,6 +85,7 @@ const filterFunc = function (selectedValue) {
     }
     if (selectedValue === "Skyblock") {
       filterItems[i].classList.add("skyblock");
+    }
   }
 };
 
